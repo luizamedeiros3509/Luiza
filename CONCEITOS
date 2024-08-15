@@ -1,0 +1,22 @@
+1. Algoritmo: é uma sequência de comandos, instruções ou raciocínios feitos sistematicamente para alcançar um objetivo, isto é, um conjunto de passos bem definidos para realizar uma tarefa ou resolver um problema específico. Características que podem ser encontradas num algoritmo são definição clara, entradas, saídas, finitude e execução. Dessa forma, são utilizados em diversas aplicações desde simples cálculos até processos complexos de computação e automação. 
+
+2. Sistema de arquivos: é um método de estruturação de dados que um sistema operativo usa para controlar como os dados são armazenados e recuperados. Assim, organiza arquivos e diretórios para garantir a alocação adequada de espaço no dispositivo, permitindo a criação, movimentação, modificação e exclusão de arquivos ou diretórios. São essenciais para otimizar o desempenho, garantindo integridade aos dados e facilitando o gerenciamento destes e backups. Exemplos de sistemas de arquivo são Tabela de alocação de arquivos (FAT), Sistema de arquivos global (GFS) e Sistema de arquivos hierárquico (HFS). Dentre os tipos de sistemas de arquivos encontramos sistema de arquivos em disco, flash, de fita, de banco de dados, transacionais, de rede, em disco compartilhado, mínimos e simples. 
+
+3. Inteligência artificial: é um campo da ciência da computação que se dedica ao estudo e ao desenvolvimento de máquinas e programas computacionais capazes de reproduzir o comportamento humano na realização de tarefas e tomada de decisões. Em outras palavras, refere-se à criação de sistemas ou máquinas que podem desempenhar funções que normalmente exigem inteligência humana, incluindo habilidades como aprender, raciocinar e perceber o ambiente. Exemplos de IA presente na vida cotidiana são assistentes digitais, orientação por GPS, reconhecimento facial e redes sociais. 
+
+4. Informação: é um conjunto organizado de dados e conhecimentos, que constitui uma mensagem sobre um determinado fenômeno, evento ou pessoa. É o resultado da análise e organização dos dados com o intuito de conferir significado dentro de um contexto.  Assim, pode ser transmitida de pessoa para pessoa, seja de maneira escrita ou armazenada eletronicamente. 
+
+5. Dados: é um conjunto de elementos soltos, os quais, por si só, não resultam em algo concreto ou com sentido, isto é, não possuem uma finalidade até que sejam analisados e organizados devidamente, e brevemente convertidos em informações que poderão ser utilizadas para distintos propósitos. São recepcionados através dos sentidos e, uma vez integrados, acabam por gerar a informação necessária para produzir conhecimento.  Quando ordenados e transformados em informações, têm o objetivo de esclarecer o funcionamento de um objeto ou processo. 
+
+6. Banco de dados: é um sistema de armazenamento de informações que permite a coleta, o armazenamento, a recuperação e a manipulação de dados de maneira estruturada e eficiente. Trata-se de uma rede integrada de dados que serve para gerenciar e acessar informações de forma confiável, o que é essencial para muitas aplicações, desde empresas que gerenciam informações de clientes até aplicações científicas e governamentais que lidam com grandes volumes de dados.
+
+7. Zero rating: é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens.
+
+8. Jurimetria: é a aplicação de métodos quantitativos, especialmente a estatística, na área do Direito. Revolucionando a prática jurídica, ela tem sido utilizada em conjunto com softwares para prever riscos, oferecer probabilidades de vitória em litígio e prever tendências de comportamento nos tribunais.
+
+9. Servidor: é um computador ou vários computadores que enviam dados através de uma rede. Esses dados podem ser um site da web, um programa, um arquivo de fotos ou, até mesmo, informações sobre o tempo para uma aplicação em seu telefone.
+
+10. Rede neural artificial: é um programa de aprendizado de máquina, ou modelo, que toma decisões de uma forma semelhante ao cérebro humano, utilizando processos que imitam a maneira como os neurônios biológicos trabalham juntos para identificar fenômenos, avaliar opções e chegar a conclusões.
+
+
+Referências: BBC News Brasil, parlamento europeu, IBM, brasil escola, oracle brasil, pro juris 
